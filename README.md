@@ -1,5 +1,3 @@
-![Game Preview](Screenshot 2025-06-14 211740.png)
-
 
 Simon Says – Memory Game with Theme & Music Customization
 
