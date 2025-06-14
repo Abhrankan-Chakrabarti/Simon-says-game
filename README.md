@@ -1,3 +1,4 @@
+![Game Preview](screenshot.png.png)
 
 Simon Says – Memory Game with Theme & Music Customization
 
