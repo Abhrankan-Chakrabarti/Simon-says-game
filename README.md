@@ -1,3 +1,6 @@
+![Game Preview](screenshot.png)
+
+
 Simon Says – Memory Game with Theme & Music Customization
 
 An interactive and engaging 4x4 grid-based memory game inspired by Simon Says, built using Python and Pygame. Features dynamic themes, background music, level-based milestones, and high score tracking.
