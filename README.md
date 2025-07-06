@@ -1,4 +1,4 @@
-![Game Preview](screenshot.png.png)
+![Game Preview](screenshot.png)
 
 Simon Says – Memory Game with Theme & Music Customization
 
@@ -6,7 +6,7 @@ An interactive and engaging 4x4 grid-based memory game inspired by Simon Says, b
 
 ---
 
-  Features
+##  Features
 
 - 🎨 Theme Switching: Choose between Dark, Light, Retro, and Neon themes using `Ctrl + T` during gameplay.
 - 🎵 Background Music: Plays nostalgic music in a loop for immersive gameplay.
@@ -17,7 +17,7 @@ An interactive and engaging 4x4 grid-based memory game inspired by Simon Says, b
 
 ---
 
- 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Pygame
@@ -26,7 +26,7 @@ An interactive and engaging 4x4 grid-based memory game inspired by Simon Says, b
 
 ---
 
- 📦 Requirements
+## 📦 Requirements
 
 Install dependencies using:
 
