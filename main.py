@@ -3,6 +3,15 @@ import pygame
 import random
 import asyncio
 
+import os
+import time
+
+# Seed the random generator for browser compatibility (pygbag fix)
+try:
+    random.seed(os.urandom(32))
+except:
+    random.seed(time.time())
+
 pygame.init()
 pygame.mixer.init()
 
